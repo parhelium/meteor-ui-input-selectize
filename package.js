@@ -1,6 +1,6 @@
 Package.describe({
   name: 'parhelium:ui-input-selectize',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: '',
   git: '',
   documentation: 'README.md'
@@ -17,7 +17,6 @@ Package.onUse(function(api) {
       'templating',
       'jeremy:selectize',
       'parhelium:logger',
-      'reactive-var',
       'reactive-var',
   ], client);
 
