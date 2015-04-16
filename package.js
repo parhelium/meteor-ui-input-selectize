@@ -1,6 +1,6 @@
 Package.describe( {
     name: 'parhelium:ui-input-selectize',
-    version: '0.0.4',
+    version: '0.0.5',
     summary: 'Integration of Selectize with Meteor.',
     git: 'https://github.com/parhelium/meteor-ui-input-selectize',
     documentation: 'README.md'
